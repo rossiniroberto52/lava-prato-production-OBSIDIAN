@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "6b1d64b666be1201",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b33ec38ff087f44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acf0f6fc0e294e41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "indeias/ideias mirabolantes/surgimento das mascaras.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "surgimento das mascaras"
+            }
+          },
+          {
+            "id": "7a67d21c20849dd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "cf869a6a4c1a3bff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "indeias/ideias mirabolantes/Mascaras.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mascaras"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ae6dbcca6a03d62",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1ffa06b5af806ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32e76088a6707105",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "cbe1afc888f4cf36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "5eebfa41aa1b9a10",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "adb83bfba36bfa7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a678b13158304e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "366579c50170c3a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "indeias/universo/universo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para universo"
+            }
+          },
+          {
+            "id": "ebbe94d9491b53fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "indeias/universo/universo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para universo"
+            }
+          },
+          {
+            "id": "305062d6896a0cfb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ab6af0325e2f5496",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "c3fed2cddd8e700b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "indeias/universo/universo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de universo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "acf0f6fc0e294e41",
+  "lastOpenFiles": [
+    "2026-02-01.md",
+    "indeias/ideias mirabolantes/surgimento das mascaras.md",
+    "indeias/ideias mirabolantes/indigentes.md",
+    "[[indigentes]].md",
+    "indeias/ideias mirabolantes/ideias.md",
+    "indeias/ideias mirabolantes/Mascaras.md",
+    "indeias/universo/universo.md",
+    "indeias/universo/mundo.md",
+    "indeias/ideias mirabolantes/BackStory.md",
+    "indeias/ideias mirabolantes/capitulo 2/Capitulo 2.md",
+    "todo.md",
+    "indeias/universo",
+    "Bem-vindo.md",
+    "indeias/ideias mirabolantes/capitulo 2",
+    "indeias/ideias mirabolantes",
+    "indeias"
+  ]
+}
