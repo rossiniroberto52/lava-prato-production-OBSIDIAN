@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "573886e2020f891e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "indeias/ideias mirabolantes/indigentes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "indigentes"
+            }
+          },
+          {
             "id": "7a67d21c20849dd7",
             "type": "leaf",
             "state": {
@@ -208,22 +222,24 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "acf0f6fc0e294e41",
   "lastOpenFiles": [
-    "2026-02-01.md",
+    "relações externas.md",
+    "todo.md",
     "indeias/ideias mirabolantes/surgimento das mascaras.md",
     "indeias/ideias mirabolantes/indigentes.md",
+    "indeias/ideias mirabolantes/capitulo 2/Capitulo 2.md",
+    "2026-02-01.md",
     "[[indigentes]].md",
     "indeias/ideias mirabolantes/ideias.md",
     "indeias/ideias mirabolantes/Mascaras.md",
     "indeias/universo/universo.md",
     "indeias/universo/mundo.md",
     "indeias/ideias mirabolantes/BackStory.md",
-    "indeias/ideias mirabolantes/capitulo 2/Capitulo 2.md",
-    "todo.md",
     "indeias/universo",
     "Bem-vindo.md",
     "indeias/ideias mirabolantes/capitulo 2",
